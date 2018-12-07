@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Business Comp</string>
+    <string name="tab_text_1">Inicio</string>
+    <string name="tab_text_2">Meus Itens</string>
+    <string name="tab_text_3">Inserir Item</string>
+    <string name="tab_text_4">Resultados</string>
+    <string name="tab_text_5">Estatistica</string>
+    <string name="action_settings">Settings</string>
+    <string name="section_format">Hello World from section: %1$d</string>
+</resources>
